@@ -130,6 +130,10 @@ If you have any questions or concerns regarding this Privacy Policy or the App, 
 
 > “Seek first His Kingdom and His righteousness.”  
 > — Matthew 6:33
+>
+> 
+
+
 
 
 
@@ -138,7 +142,6 @@ If you have any questions or concerns regarding this Privacy Policy or the App, 
 # 私隱政策  
 **4C 基督為中心社區教會 手機應用程式**
 
-_最後更新：2025年12月_
 
 4C 基督為中心社區教會（以下簡稱「本教會」、「我們」）非常重視你的私隱，並致力保障你嘅個人資料。本私隱政策說明當你使用我哋嘅手機應用程式（以下簡稱「本 App」）時，我哋如何收集、使用、披露及保護你的資料。  
 本 App 為一個**非牟利、教會事工用途**嘅應用程式，用於教會資訊發佈、信徒互動及奉獻。
