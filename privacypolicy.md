@@ -131,6 +131,10 @@ If you have any questions or concerns regarding this Privacy Policy or the App, 
 > “Seek first His Kingdom and His righteousness.”  
 > — Matthew 6:33
 
+
+
+
+
 # 私隱政策  
 **4C 基督為中心社區教會 手機應用程式**
 
