@@ -1,8 +1,6 @@
 # Privacy Policy  
 **4C Christ Centered Community Church Mobile App**
 
-_Last updated: December 2025_
-
 4C Christ Centered Community Church (“we,” “our,” or “the Church”) respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the “App”).  
 This App is operated as a **non-profit, church-based application** for ministry, communication, and charitable giving.
 
@@ -13,7 +11,7 @@ By using the App, you agree to the collection and use of information in accordan
 ## 1. About Our Church
 
 4C Christ Centered Community Church is a Christ-centered, Scripture-based, and Spirit-guided congregation dedicated to discipleship, community outreach, and equipping the next generation to serve Christ.  
-Our mission reflects our belief that all people matter to our Creator God.
+We believe all people matter to our Creator God.
 
 ---
 
@@ -21,20 +19,20 @@ Our mission reflects our belief that all people matter to our Creator God.
 
 ### 2.1 Personal Information You Provide
 When you use the App, we may collect:
-- Name
-- Email address
-- Login credentials (via secure authentication)
-- Profile information (optional)
-- Comments and likes on church news or announcements
+- Name  
+- Email address  
+- Login credentials (via secure authentication)  
+- Profile information (optional)  
+- Comments and likes on church news or announcements  
 - Donation-related information (amount, date, method)
 
 > **Note:** We do **not** store full credit card or banking details. All donations are processed securely by third-party payment providers.
 
 ### 2.2 Automatically Collected Information
 We may collect limited technical information, such as:
-- Device type and operating system
-- App usage data (e.g., pages viewed, features used)
-- Error logs and performance data
+- Device type and operating system  
+- App usage data (e.g., pages viewed, features used)  
+- Error logs and performance data  
 
 This information is used solely to improve the App experience and reliability.
 
@@ -43,13 +41,13 @@ This information is used solely to improve the App experience and reliability.
 ## 3. How We Use Your Information
 
 We use the collected information to:
-- Authenticate users and manage accounts
-- Display church news, announcements, and updates
-- Enable comments and likes within the App
-- Process and acknowledge donations
-- Communicate ministry-related updates
-- Improve App functionality and user experience
-- Maintain security and prevent misuse
+- Authenticate users and manage accounts  
+- Display church news, announcements, and updates  
+- Enable comments and likes within the App  
+- Process and acknowledge donations  
+- Communicate ministry-related updates  
+- Improve App functionality and user experience  
+- Maintain security and prevent misuse  
 
 We do **not** sell, rent, or trade your personal information.
 
@@ -57,17 +55,17 @@ We do **not** sell, rent, or trade your personal information.
 
 ## 4. Donations and Payments
 
-- The App allows users to make **voluntary charitable donations**.
-- All donations are processed through **secure third-party payment processors** compliant with industry security standards.
-- The Church does not store sensitive payment information such as full credit card numbers.
+- The App allows users to make **voluntary charitable donations**.  
+- All donations are processed through **secure third-party payment processors** compliant with industry security standards.  
+- The Church does not store sensitive payment information such as full credit card numbers.  
 - Donation records are used for receipts, internal reporting, and legal compliance only.
 
 ---
 
 ## 5. Comments, Likes, and Community Features
 
-- Comments and likes are visible to other users of the App.
-- Please do not share sensitive personal information in comments.
+- Comments and likes are visible to other users of the App.  
+- Please do not share sensitive personal information in comments.  
 - The Church reserves the right to moderate or remove content that is inappropriate, offensive, or inconsistent with Christian values.
 
 ---
@@ -75,9 +73,9 @@ We do **not** sell, rent, or trade your personal information.
 ## 6. Data Sharing and Disclosure
 
 We may share limited information only in the following circumstances:
-- With trusted service providers (e.g., authentication, donation processing, app hosting)
-- To comply with legal obligations or lawful requests
-- To protect the rights, safety, and integrity of the Church, users, or the App
+- With trusted service providers (e.g., authentication, donation processing, app hosting)  
+- To comply with legal obligations or lawful requests  
+- To protect the rights, safety, and integrity of the Church, users, or the App  
 
 All service providers are required to protect your data and use it only for authorized purposes.
 
@@ -101,9 +99,9 @@ If you believe a child has provided personal data without consent, please contac
 ## 9. Your Rights and Choices
 
 Depending on your location, you may have the right to:
-- Access or update your personal information
-- Request deletion of your account
-- Withdraw consent where applicable
+- Access or update your personal information  
+- Request deletion of your account  
+- Withdraw consent where applicable  
 
 You may manage certain information directly within the App or contact us for assistance.
 
@@ -116,13 +114,17 @@ Any changes will be posted within the App or this repository with an updated “
 
 ---
 
-## 11. Contact Us
-
-If you have questions, concerns, or requests regarding this Privacy Policy, please contact us:
+## 11. Contact Information
 
 **4C Christ Centered Community Church**  
-📧 Email: _[insert church contact email]_  
-📍 United States
+📍 **Address:** 18381 Lake Chabot Road, Castro Valley, CA 94546  
+📞 **Phone:** (510) 888-1331  
+
+### Service Hours
+- **English Service:** 9:30 AM  
+- **Cantonese Service:** 11:00 AM  
+
+If you have any questions or concerns regarding this Privacy Policy or the App, please contact us using the information above.
 
 ---
 
